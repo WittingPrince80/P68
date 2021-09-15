@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+     margin: 0;
+    padding-top: 800px;
+    
+}
+
+img {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+
+#nav navbar-nav {
+   
+    
+    font-family: sans-serif;
+    position:fixed;
+    background-color: white;
+    width: 100%;
+    top:0px;
+   
+    z-index: 10;
+    cursor: pointer;
+}
+
+li{
+    
+    color: #fff;
+    display: inline;
+   
+    padding-left: 9px;
+    padding-right: 9px;
+   
+    
+    font-family:fantasy;
+    font-size: 20px
+}
+#pi{
+
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+
+
